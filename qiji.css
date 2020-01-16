@@ -1,4 +1,4 @@
-﻿body{
+body{
 	padding: 0px;
 	margin: 0px;
 	font-family: "å¾®è½¯é›…é»‘";
@@ -183,7 +183,7 @@ h2 a{
 	position: absolute;
 	width: 315px;
 	height: 295px;
-	background-image: url(../img/ggt.png);
+	background-image: url(ggt.png);
 	background-repeat: no-repeat;
 	bottom: 0px;
 }
