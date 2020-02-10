@@ -1,4 +1,5 @@
-﻿$(document).ready(function(){ var playlist = [ { title:"大师工作室", artist:"大师工作室", mp3:"http://y2-p-p.qq190.net/UserSongs/2020/02/80bd0ffd3c4545c8856ad34ba33bd31f_mp3.m4a", poster: "" }, 
+$(document).ready(function(){ var playlist = [ { title:"大师工作室", artist:"大师工作室", mp3:"http://cloud.tjit.net/public/uploads/20200210/8/8_E4aYI7fS_大师工作室.mp3", poster: "" }, 
+ { title:"大师工作室", artist:"大师工作室", mp3:"http://y2-p-p.qq190.net/UserSongs/2020/02/80bd0ffd3c4545c8856ad34ba33bd31f_mp3.m4a", poster: "" },
  { title:"大师工作室", artist:"大师工作室", mp3:"http://y2-p-p.qq190.net/UserSongs/2020/02/32fd27c74e154aa78c0e4cc35d37f84b_mp3.m4a", poster: "" },
  { title:"大师工作室", artist:"大师工作室", mp3:"http://y2-p-p.qq190.net/UserSongs/2020/02/2b17fc2a88ce478a9cdbb4f96b35fa37_mp3.m4a", poster: "" },
  { title:"摇头 (by大师工作室)", artist:"By 大师工作室", mp3:"http://y2-p-p.qq190.net/UserSongs/2020/02/7956ae67c18c4e06ab4dd42a4a0d3516_mp3.m4a", poster: "" },
@@ -10,11 +11,6 @@
  { title:"Superstar", artist:"By 大师工作室", mp3:"http://music.163.com/song/media/outer/url?id=492145159.mp3", poster: "" },
  { title:"无名之辈", artist:"By 大师工作室", mp3:"http://music.163.com/song/media/outer/url?id=1376142151.mp3", poster: "" },
  { title:"我愿意平凡的陪在你身旁 (DjYaha版)", artist:"By 大师工作室", mp3:"http://music.163.com/song/media/outer/url?id=1376093547.mp3", poster: "" },
-
- { title:"Clear (Shawn Wasabi Remix)", artist:"By 大师工作室", mp3:"http://music.163.com/song/media/outer/url?id=417833443.mp3", poster: "" },
- { title:"Hero", artist:"By 大师工作室", mp3:"http://music.163.com/song/media/outer/url?id=418603096.mp3", poster: "" },
- { title:"Lost Control (Original Mix)", artist:"By 大师工作室", mp3:"http://music.163.com/song/media/outer/url?id=417859039.mp3", poster: "" },
- { title:"Lil Mama", artist:"By 大师工作室", mp3:"http://music.163.com/song/media/outer/url?id=36492681.mp3", poster: "" },
 
  { title:"年少有为", artist:"by 大师工作室", mp3:"http://music.163.com/song/media/outer/url?id=1293886117.mp3", poster: "" },
  { title:"我的名字", artist:"by 大师工作室", mp3:"http://music.163.com/song/media/outer/url?id=554241732.mp3", poster: "" },
